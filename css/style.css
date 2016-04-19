@@ -1,0 +1,77 @@
+button  {
+  text-align: center;
+ color: black !important;
+  border-radius: 8px;
+   border: 2px solid white;
+
+} 
+
+#countryArea {
+    font-size: 50px;
+    text-align: center;
+    color: #9999A8;
+    font-family: 'Revalia', cursive;
+   text-shadow: 1px 1px #D9D925;
+
+  }
+
+  #weatherTemp {
+    font-size: 90px;
+    text-alin: center;
+
+    font-family: 'Revalia', cursive;
+    
+  }
+
+h2 {
+  text-align: center;
+font-family: 'Sarpanch', sans-serif;
+  color: white;
+   text-shadow: 1px 1px #D9D925;
+  font-size: 40px;
+  
+  
+
+}
+.weatherTemp{
+ text-align: center; 
+
+color: #9999A8;
+  font-family: 'Revalia', cursive;
+  
+}
+
+
+
+h3 {
+  text-align: center;
+  color: #9999A8;
+}
+
+.sizeicon {
+  width: 100px;
+  height: 100px;
+  display: block;
+  margin: 0 auto;
+
+  
+}
+
+
+.jumbotron {
+  background: #000026;
+  margin-left: 100px;
+  margin-right: 100px;
+  border: 2px solid;
+  border-color: #9999A8;
+  opacity: 0.6;
+  
+  
+}
+
+
+
+body {
+  background: black;
+  
+}
